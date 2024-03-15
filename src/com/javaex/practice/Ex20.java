@@ -5,6 +5,13 @@ package com.javaex.practice;
 아래의 출력결과를 예상하여 작성하세요.
 (코드를 작성해서 예상과 맞는지 확인해 보세요.)
  */
+/*
+정답 :
+
+i : 11 (증감연산자로 늘어났기 때문)
+n : 0 (i가 늘어나기 전에 계산했기 때문)
+*/
+
 public class Ex20 {
 
 	public static void main(String[] args) {
@@ -17,9 +24,3 @@ public class Ex20 {
 	}
 	
 }
-/*
-정답 :
-
-i : 11 (증감연산자로 늘어났기 때문)
-n : 0 (i가 늘어나기 전에 계산했기 때문)
-*/

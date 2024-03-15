@@ -6,6 +6,10 @@ package com.javaex.practice;
 (코드를 작성해서 오류가 없도록 변경해 보세요.)
 
  */
+/*
+정답 :
+변수 sum을 변수로 선언해주고, 행마다 세미콜론으로 닫고, 따옴표 수정
+*/
 public class Ex17 {
 
 	public static void main(String[] args) {
@@ -20,7 +24,3 @@ public class Ex17 {
 		System.out.println("합은 " + sum);
 	}
 }
-/*
-정답 :
-변수 sum을 변수로 선언해주고, 행마다 세미콜론으로 닫고, 따옴표 수정
-*/
